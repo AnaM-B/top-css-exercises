@@ -1,0 +1,18 @@
+.shared {
+    background-color: #ff9b9b;
+    font-family: verdana, sans-serif, 'DejaVu Sans';
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: #3326a7;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #a7ffcc;
+    font-weight: bold;
+}

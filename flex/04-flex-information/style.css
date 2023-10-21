@@ -12,6 +12,18 @@ img {
   font-weight: 900;
   width: fit-content;
   margin: auto;
+  margin-bottom: 32px;
+}
+
+.plants {
+  display: flex;
+  justify-content: space-between;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* do not edit this footer */

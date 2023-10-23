@@ -40,6 +40,8 @@ body {
 .header {
   font-weight: bold;
   font-size: larger;
+  display: flex;
+  justify-content: space-between;
 }
 
 
